@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Jaspreet Kaur
 author: Jaspreet Kaur
+description: My website
+markdown: kramdown
